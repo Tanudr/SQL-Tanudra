@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="app_name">Profile app</string>
+
+    <!--label-->
+
+    <string name="labelName"> Name: </string>
+    <string name="Age"> Age: </string>
+    <string name="Address"> Address: </string>
+    <string name="Natio"> Nationality: </string>
+    <string name="generate">Generate </string>
+
+    <!--Hint-->
+
+    <string name="input"> Please enter your  name</string>
+    <string name="ageInput"> Please enter your age</string>
+    <string name="AdresInput"> Please enter your address</string>
+    <string name="NatioInput"> Please enter your nationality</string>
+</resources>
